@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: MCQgenerator
+Version: 0.1
+Author: Joydeb Gan Prokas
+Author-email: joydebganprokas@gmail.com
+Requires-Dist: openai
+Requires-Dist: langchain
+Requires-Dist:: langchain-community
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: PyPDF2
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist

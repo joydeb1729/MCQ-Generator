@@ -1,0 +1,6 @@
+groq
+langchain
+python-dotenv
+PyPDF2
+
+-e .

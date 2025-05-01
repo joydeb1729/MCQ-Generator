@@ -1,0 +1,36 @@
+{
+    "1": {
+      "no": "1",
+      "mcq": "Multiple choice question.",
+      "options": {
+        "A": "Choice A",
+        "B": "Choice B",
+        "C": "Choice C",
+        "D": "Choice D"
+      },
+      "correct": "correct ans"
+    },
+    "2": {
+      "no": "2",
+      "mcq": "Multiple choice question.",
+      "options": {
+        "A": "Choice A",
+        "B": "Choice B",
+        "C": "Choice C",
+        "D": "Choice D"
+      },
+      "correct": "correct ans"
+    },
+    "3": {
+      "no": "3",
+      "mcq": "Multiple choice question.",
+      "options": {
+        "A": "Choice A",
+        "B": "Choice B",
+        "C": "Choice C",
+        "D": "Choice D"
+      },
+      "correct": "correct ans"
+    }
+  }
+  

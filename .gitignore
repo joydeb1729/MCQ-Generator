@@ -1,3 +1,4 @@
 .env
 mcq_env
 env_info.txt
+.logs

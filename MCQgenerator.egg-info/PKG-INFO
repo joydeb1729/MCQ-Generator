@@ -5,7 +5,8 @@ Author: Joydeb Gan Prokas
 Author-email: joydebganprokas@gmail.com
 Requires-Dist: openai
 Requires-Dist: langchain
-Requires-Dist:: langchain-community
+Requires-Dist: langchain-community
+Requires-Dist: langchain_openai
 Requires-Dist: streamlit
 Requires-Dist: python-dotenv
 Requires-Dist: PyPDF2
